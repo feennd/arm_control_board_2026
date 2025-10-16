@@ -1,0 +1,17 @@
+Add component: Footprint Not Found CAP 0603_1608
+Added Pin To Net: NetName=+3V3 Pin=U100-6
+Added Pin To Net: NetName=GND Pin=U100-10
+Added Pin To Net: NetName=+3V3 Pin=U100-11
+Added Pin To Net: NetName=+3V3 Pin=U100-19
+Added Pin To Net: NetName=GND Pin=U100-20
+Added Pin To Net: NetName=+3V3 Pin=U100-21
+Added Pin To Net: NetName=+3V3 Pin=U100-22
+Added Pin To Net: NetName=GND Pin=U100-27
+Added Pin To Net: NetName=+3V3 Pin=U100-28
+Added Pin To Net: NetName=GND Pin=U100-49
+Added Pin To Net: NetName=+3V3 Pin=U100-50
+Added Pin To Net: NetName=GND Pin=U100-74
+Added Pin To Net: NetName=+3V3 Pin=U100-75
+Added Pin To Net: NetName=GND Pin=U100-99
+Added Pin To Net: NetName=+3V3 Pin=U100-100
+Add Class Member: Failed to add class member : Component C? 100n
